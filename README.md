@@ -6,8 +6,8 @@ A bookmark manager application.
 
 ### Demo
 
-![Demo](https://booker-mark.vercel.app/preview_signin_mobile.png)
-![Demo](https://booker-mark.vercel.app/preview_home_mobile.png)
+![Mobile Preview 1](https://booker-mark.vercel.app/preview_signin_mobile.png)
+![Mobile Preview 2](https://booker-mark.vercel.app/preview_home_mobile.png)
 
 ## Get started
 
@@ -17,11 +17,17 @@ A bookmark manager application.
    npm install
    ```
 
-2. Start the app
+2. Open your project terminal and start the app with the command
 
    ```bash
     npx expo start
    ```
+
+3. Download the Expo GO app on PlayStore
+
+4. Press 's' in the terminal to switch to Expo GO
+
+5. Use the Expo GO to scan the QR code in the terminal and the app will open up
 
 In the output, you'll find options to open the app in a
 
